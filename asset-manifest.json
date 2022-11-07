@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/restaurant-site-withe-react/static/css/main.66f26d34.css",
+    "main.js": "/restaurant-site-withe-react/static/js/main.a46a7061.js",
+    "static/js/787.31c428af.chunk.js": "/restaurant-site-withe-react/static/js/787.31c428af.chunk.js",
+    "static/media/2.png": "/restaurant-site-withe-react/static/media/2.b810024430d376b6bd6d.png",
+    "static/media/bg1.jpg": "/restaurant-site-withe-react/static/media/bg1.12c392d279429f82935c.jpg",
+    "static/media/1.png": "/restaurant-site-withe-react/static/media/1.91adf8dc0779a423e014.png",
+    "static/media/03.jpg": "/restaurant-site-withe-react/static/media/03.0df4d0d0dda2d436bffc.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/restaurant-site-withe-react/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/bg2.jpg": "/restaurant-site-withe-react/static/media/bg2.580213ab4b0ed0a48210.jpg",
+    "static/media/fontawesome-webfont.eot": "/restaurant-site-withe-react/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/restaurant-site-withe-react/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/p1.jpg": "/restaurant-site-withe-react/static/media/p1.960ff282036e3c4e63eb.jpg",
+    "static/media/p2.jpg": "/restaurant-site-withe-react/static/media/p2.f6e01ff2a6ae714f244b.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/restaurant-site-withe-react/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/restaurant-site-withe-react/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/01.jpg": "/restaurant-site-withe-react/static/media/01.1defe43a880022701c8d.jpg",
+    "static/media/02.jpg": "/restaurant-site-withe-react/static/media/02.a567a9db1482b99c0fab.jpg",
+    "index.html": "/restaurant-site-withe-react/index.html",
+    "main.66f26d34.css.map": "/restaurant-site-withe-react/static/css/main.66f26d34.css.map",
+    "main.a46a7061.js.map": "/restaurant-site-withe-react/static/js/main.a46a7061.js.map",
+    "787.31c428af.chunk.js.map": "/restaurant-site-withe-react/static/js/787.31c428af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66f26d34.css",
+    "static/js/main.a46a7061.js"
+  ]
+}
