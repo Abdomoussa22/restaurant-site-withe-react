@@ -1,0 +1,35 @@
+nav{
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0;
+    height: auto;
+}
+.navbar{
+    position: sticky !important;
+}
+nav a{
+    color: #a82d49 !important;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+nav #lastnav{
+    border: 3px solid #a82d49;
+    background-color: #a82d49;
+    box-sizing: border-box;
+    color: #fff !important;
+    width: 170px;
+    text-align: center;
+}
+nav #lastnav:hover{
+    background-color: transparent;
+    color: #a82d49 !important;
+    transition: 0.4s ease-in-out;
+}
+nav img{
+    max-width: 100%;
+    height: 70px;
+}
